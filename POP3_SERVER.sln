@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "POP3_SERVER", "POP3_SERVER.vcxproj", "{92CD9650-DFAA-4CEC-BACE-607370FDE5A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92CD9650-DFAA-4CEC-BACE-607370FDE5A0}.Debug|x64.ActiveCfg = Debug|x64
+		{92CD9650-DFAA-4CEC-BACE-607370FDE5A0}.Debug|x64.Build.0 = Debug|x64
+		{92CD9650-DFAA-4CEC-BACE-607370FDE5A0}.Debug|x86.ActiveCfg = Debug|Win32
+		{92CD9650-DFAA-4CEC-BACE-607370FDE5A0}.Debug|x86.Build.0 = Debug|Win32
+		{92CD9650-DFAA-4CEC-BACE-607370FDE5A0}.Release|x64.ActiveCfg = Release|x64
+		{92CD9650-DFAA-4CEC-BACE-607370FDE5A0}.Release|x64.Build.0 = Release|x64
+		{92CD9650-DFAA-4CEC-BACE-607370FDE5A0}.Release|x86.ActiveCfg = Release|Win32
+		{92CD9650-DFAA-4CEC-BACE-607370FDE5A0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF2B8F61-F72D-495B-B958-79547FF7AD8F}
+	EndGlobalSection
+EndGlobal
